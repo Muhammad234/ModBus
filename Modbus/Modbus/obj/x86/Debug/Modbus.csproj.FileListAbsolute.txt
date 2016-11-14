@@ -1,0 +1,15 @@
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\Modbus.dll
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\Modbus.csproj.GenerateResource.Cache
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\Modbus.exe
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\Modbus.exe.config
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\log4net.dll
+C:\Users\ghost\documents\visual studio 2010\Projects\Modbus\Modbus\bin\Debug\Unme.Common.dll
+C:\Users\ghost\Desktop\Modbus\Modbus\bin\Debug\Modbus.exe.config
+C:\Users\ghost\Desktop\Modbus\Modbus\obj\x86\Debug\Modbus.exe
+C:\Users\ghost\Desktop\Modbus\Modbus\obj\x86\Debug\Modbus.pdb
